@@ -9,7 +9,7 @@ I am a passionate Computer Science freshman with a strong background in web deve
   <img src="https://visitcount.itsvg.in/api?id=alecbnono&icon=3&color=8"/>
 </p>
 
-# 🌐 Connect with me :
+## 🌐 Connect with me :
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alecnono/" style="text-decoration:none" target="_blank">
@@ -21,7 +21,7 @@ I am a passionate Computer Science freshman with a strong background in web deve
   </a>
 </p>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <h4 align="center">
   Languages/Frameworks
@@ -47,7 +47,7 @@ I am a passionate Computer Science freshman with a strong background in web deve
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alecbnono&theme=react&hide_border=false" />
