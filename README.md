@@ -1,10 +1,8 @@
 # 💫 About Me:
 
-🔭 I’m currently working on Random Personal Projects<br>
-👯 I’m looking to collaborate on whatever you have on mind<br>
-🤝 I’m looking for help with anything, really :)<br>
-🌱 I’m currently learning C & Vim<br>
-💬 Ask me about anything!
+<p> 
+  I am a dedicated and passionate Computer Science freshman with a strong background in technology and web development. With my experience and a deep interest in computer science, I am confident in my ability to excel as a web developer. My goal is to leverage my skills to deliver high-quality web solutions that meet and exceed client expectations. I am eager to collaborate with you to bring your projects to life and ensure your digital presence stands out. Let's work together to achieve your vision and drive success. 
+</p>
 
 # 🌐 Connect with me :
 <a href="https://www.linkedin.com/in/alecnono/">
