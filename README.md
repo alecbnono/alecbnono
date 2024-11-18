@@ -6,7 +6,7 @@
 
 # 🌐 Connect with me :
 
-<p align="center">
+<p style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/alecnono/" style="text-decoration:none" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
