@@ -47,8 +47,6 @@ I am a passionate Computer Science freshman with a strong background in web deve
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
 
-
-
 # 📊 GitHub Stats:
 
 <p align="center"; display="flex"; flex-direction="column">
