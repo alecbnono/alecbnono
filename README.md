@@ -12,6 +12,9 @@ I am a passionate Computer Science freshman with a strong background in web deve
   <a href="mailto:alecbnono@gmail.com" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.techbyalec.dev/">
+    <img src="https://img.shields.io/badge/website-test?style=for-the-badge&logo=headspace&logoColor=white&labelColor=%230000ff&color=%230000ff" />
+  </a>
 </p>
 
 ## 🎓 More about me:
