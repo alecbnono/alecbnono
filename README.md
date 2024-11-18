@@ -1,10 +1,18 @@
 # 💫 About Me:
 
-🔭 I’m currently working on Random Personal Projects<br>👯 I’m looking to collaborate on whatever you have on mind<br>🤝 I’m looking for help with anything, really :)<br>🌱 I’m currently learning C & Vim<br>💬 Ask me about anything!
+🔭 I’m currently working on Random Personal Projects<br>
+👯 I’m looking to collaborate on whatever you have on mind<br>
+🤝 I’m looking for help with anything, really :)<br>
+🌱 I’m currently learning C & Vim<br>
+💬 Ask me about anything!
 
-# 🌐 Socials:
+# 🌐 Connect with me :
+<a href="https://www.linkedin.com/in/alecnono/">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alecnono/)
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 # 💻 Tech Stack:
 
