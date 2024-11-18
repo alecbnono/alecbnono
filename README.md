@@ -13,17 +13,15 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alecbnono&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alecbnono&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
 </p></br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alecbnono&theme=highcontrast&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alecbnono&theme=transparent&hide_border=false" />
 </p></br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecbnono&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecbnono&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p></br>
 
-
----
 
 [![](https://visitcount.itsvg.in/api?id=alecbnono&icon=3&color=8)](https://visitcount.itsvg.in)
 
