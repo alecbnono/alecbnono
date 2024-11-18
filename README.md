@@ -6,7 +6,7 @@
 
 # 🌐 Connect with me :
 <a href="https://www.linkedin.com/in/alecnono/">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:alecbnono@gmail.com">
@@ -39,7 +39,7 @@
 # 📊 GitHub Stats:
 
 <p align="center"; display="flex"; flex-direction="row">
-  <img src="https://github-readme-stats.vercel.app/api?username=alecbnono&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alecbnono&theme=react&hide_border=false&include_all_commits=true&count_private=true" /></br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alecbnono&theme=react&hide_border=false" />  
 </p></br>
 
