@@ -50,7 +50,7 @@ I am a passionate Computer Science freshman with a strong background in web deve
 # 📊 GitHub Stats:
 
 <p align="center"; display="flex"; flex-direction="column">
-  <img src="https://github-readme-stats.vercel.app/api?username=alecbnono&theme=react&hide_border=false&include_all_commits=true&count_private=true" /></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=alecbnono&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
   <img padding-top="5px" src="https://github-readme-streak-stats.herokuapp.com/?user=alecbnono&theme=react&hide_border=false" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecbnono&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
