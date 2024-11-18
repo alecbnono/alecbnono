@@ -2,7 +2,8 @@
 
 <p> 
 I am a passionate Computer Science freshman with a strong background in web development, eager to deliver high-quality web solutions that exceed expectations. Let’s collaborate to bring your vision to life and ensure your digital presence stands out.
-</p>
+</p></br>
+[![](https://visitcount.itsvg.in/api?id=alecbnono&icon=3&color=8)](https://visitcount.itsvg.in)
 
 ## 🌐 Connect with me :
 
@@ -18,7 +19,11 @@ I am a passionate Computer Science freshman with a strong background in web deve
 
 ## 🎓 More about me:
 
-
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 
 # 💻 Tech Stack:
 
@@ -59,6 +64,6 @@ I am a passionate Computer Science freshman with a strong background in web deve
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecbnono&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p></br>
 
-[![](https://visitcount.itsvg.in/api?id=alecbnono&icon=3&color=8)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
