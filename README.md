@@ -9,7 +9,7 @@ I am a passionate Computer Science freshman with a strong background in web deve
   <img src="https://visitcount.itsvg.in/api?id=alecbnono&icon=3&color=8"/>
 </p>
 
-## 🌐 Connect with me :
+# 🌐 Connect with me :
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alecnono/" style="text-decoration:none" target="_blank">
