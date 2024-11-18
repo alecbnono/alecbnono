@@ -1,10 +1,10 @@
 # 💫 About Me:
 
 <p> 
-  I am a dedicated and passionate Computer Science freshman with a strong background in technology and web development. With my experience and a deep interest in computer science, I am confident in my ability to excel as a web developer. My goal is to leverage my skills to deliver high-quality web solutions that meet and exceed client expectations. I am eager to collaborate with you to bring your projects to life and ensure your digital presence stands out. Let's work together to achieve your vision and drive success. 
+I am a passionate Computer Science freshman with a strong background in web development, eager to deliver high-quality web solutions that exceed expectations. Let’s collaborate to bring your vision to life and ensure your digital presence stands out.
 </p>
 
-# 🌐 Connect with me :
+## 🌐 Connect with me :
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alecnono/" style="text-decoration:none" target="_blank">
@@ -14,8 +14,15 @@
   </a>
 </p>
 
+## 🎓 More about me:
+
+<p
+
 # 💻 Tech Stack:
 
+<p align="center">
+  Languages/Frameworks
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -26,7 +33,9 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </p>
-
+<p align="center">
+  Developer Tools/Technologies
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
