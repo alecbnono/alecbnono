@@ -1,9 +1,11 @@
 # 💫 About Me:
 
-<p> 
+<p text-align="justify"> 
 I am a passionate Computer Science freshman with a strong background in web development, eager to deliver high-quality web solutions that exceed expectations. Let’s collaborate to bring your vision to life and ensure your digital presence stands out.
 </p></br>
-[![](https://visitcount.itsvg.in/api?id=alecbnono&icon=3&color=8)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=alecbnono&icon=3&color=8"/>
+</p>
 
 ## 🌐 Connect with me :
 
