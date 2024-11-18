@@ -12,13 +12,9 @@
 
 # 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=alecbnono&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" /></td>
-    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alecbnono&theme=highcontrast&hide_border=false" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecbnono&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></td>
-  </tr>
-</table>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alecbnono&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" /></br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alecbnono&theme=highcontrast&hide_border=false" /></br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecbnono&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></br>
 
 ---
 
