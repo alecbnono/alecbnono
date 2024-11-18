@@ -12,11 +12,11 @@
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=alecbnono&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" />
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=alecbnono&theme=highcontrast&hide_border=false" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecbnono&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=alecbnono&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" />
+    <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=alecbnono&theme=highcontrast&hide_border=false" />
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecbnono&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<div>
 
 
 ---
