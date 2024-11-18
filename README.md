@@ -14,7 +14,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=alecbnono&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alecbnono&theme=highcontrast&hide_border=false)<br/>
-<div align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=alecbnono&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</div>
+<div align="center"> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alecbnono&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+</div>
 
 ---
 
