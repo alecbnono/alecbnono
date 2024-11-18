@@ -6,11 +6,10 @@
 
 # 🌐 Connect with me :
 
-<p style="display: flex; justify-content: center; gap: 10px;">
+<p align="center">
   <a href="https://www.linkedin.com/in/alecnono/" style="text-decoration:none" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:alecbnono@gmail.com" style="text-decoration:none">
+  </a><a href="mailto:alecbnono@gmail.com" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
