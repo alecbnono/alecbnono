@@ -40,7 +40,7 @@
 
 <p align="center"; display="flex"; flex-direction="column">
   <img src="https://github-readme-stats.vercel.app/api?username=alecbnono&theme=react&hide_border=false&include_all_commits=true&count_private=true" /></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alecbnono&theme=react&hide_border=false" />  
+  <img padding-top="5px" src="https://github-readme-streak-stats.herokuapp.com/?user=alecbnono&theme=react&hide_border=false" />  
 </p></br>
 
 <p align="center">
