@@ -16,7 +16,7 @@ I am a passionate Computer Science freshman with a strong background in web deve
 
 ## 🎓 More about me:
 
-<p
+
 
 # 💻 Tech Stack:
 
