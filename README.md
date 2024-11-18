@@ -20,9 +20,9 @@ I am a passionate Computer Science freshman with a strong background in web deve
 
 # 💻 Tech Stack:
 
-<h6 align="center">
+<h4 align="center">
   Languages/Frameworks
-</h6>
+</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -33,9 +33,9 @@ I am a passionate Computer Science freshman with a strong background in web deve
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </p>
-<h6 align="center">
+<h4 align="center">
   Developer Tools/Technologies
-</h6>
+</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
