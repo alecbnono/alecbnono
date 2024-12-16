@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Alec</h1>
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=alecbnono&icon=3&color=8"/>
+</p>
+
 # 💫 About Me:
 
 <p text-align="justify"> 
 I am a passionate Computer Science freshman with a strong background in web development, eager to deliver high-quality web solutions that exceed expectations. Let’s collaborate to bring your vision to life and ensure your digital presence stands out.
 </p>
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=alecbnono&icon=3&color=8"/>
-</p>
+
+<ul>
+  <li>I'm currently working on <a href="https://www.theodinproject.com/" target="_blank" rel="noopener noreferrer">The Odin Project</a></li>
+  <li>I'm currently learning C</li>
+  <li>I'm a freshman at De La Salle University</li>
+  <li>My personal website can be found <a href="https://www.techbyalec.dev/" target="_blank" rel="noopener noreferrer">here</a></li>
+</ul>
 
 ## 🌐 Connect with me :
 
