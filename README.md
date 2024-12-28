@@ -48,6 +48,7 @@ I am a passionate Computer Science freshman with a strong background in web deve
   Developer Tools/Technologies
 </h4>
 <p align="center">
+  <img src="https://img.shields.io/badge/Windows%20Subsystem%20for%20Linux-FCC624?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
