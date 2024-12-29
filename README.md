@@ -7,7 +7,7 @@
 # 💫 About Me:
 
 <p text-align="justify"> 
-I am a passionate Computer Science freshman with a strong background in web development, eager to deliver high-quality web solutions that exceed expectations. Let’s collaborate to bring your vision to life and ensure your digital presence stands out.
+I am a passionate Computer Science freshman with a strong background in web development, eager to deliver high-quality web solutions that exceed expectations. Let’s collaborate to bring our vision to life!
 </p>
 
 <ul>
