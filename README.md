@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alec</h1>
 
+<!-- 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=alecbnono&icon=3&color=8"/>
-</p>
+</p> 
+-->
 
 # 💫 About Me:
 
