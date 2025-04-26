@@ -14,7 +14,7 @@ I am a passionate Computer Science freshman with a strong background in web deve
 
 <ul>
   <li>🔭 I'm currently working on <a href="https://www.theodinproject.com/" target="_blank" rel="noopener noreferrer">The Odin Project</a> and <a href="https://cs50.harvard.edu/x/2025/" target="_blank" rel="noopener noreferrer">Harvard CS50x</a></li>
-  <li>🌱 I'm currently learning C</li>
+  <li>🌱 I'm currently learning Java & JavaScript</li>
   <li>🎓 I'm a freshman at De La Salle University</li>
   <li>⚡ My personal website can be found <a href="https://www.techbyalec.dev/" target="_blank" rel="noopener noreferrer">here</a></li>
 </ul>
