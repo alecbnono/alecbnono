@@ -15,7 +15,7 @@ I am a passionate Computer Science freshman with a strong background in web deve
 <ul>
   <li>🔭 I'm currently working on <a href="https://www.theodinproject.com/" target="_blank" rel="noopener noreferrer">The Odin Project</a></li>
   <li>🌱 I'm currently learning JavaScript</li>
-  <li>🎓 I'm a sophomore taking a Bachelor of Science in Computer Science, Major in Software Technology at De La Salle University</li>
+  <li>🎓 I'm a sophomore taking Bachelor of Science in Computer Science, Major in Software Technology at De La Salle University</li>
   <li>⚡ My personal website can be found <a href="https://www.techbyalec.dev/" target="_blank" rel="noopener noreferrer">here</a></li>
 </ul>
 
