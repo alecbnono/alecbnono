@@ -58,18 +58,16 @@ I am a passionate Computer Science freshman with a strong background in web deve
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
-
+<!--
 ## 📊 GitHub Stats:
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alecbnono&theme=react&hide_border=false" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alecbnono&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecbnono&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
